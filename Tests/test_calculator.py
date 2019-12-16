@@ -1,5 +1,4 @@
 import unittest
-
 from Calculator.calculator import Calculator
 from CsvReader.CsvReader import CsvReader
 
