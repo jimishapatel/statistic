@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Jankipatel30/statistic.svg?branch=master)](https://travis-ci.com/Jankipatel30/statistic)
+
 # Statistical Calculator
 ## Contributors:
 ### 1. Jimisha Patel
