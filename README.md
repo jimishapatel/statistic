@@ -8,10 +8,10 @@
 
 Created a python module to perform statistical calculations. For each calculation we created at least one test to check for the correct value and another test to check for invalid input. Invalid input would throw an exception with a description of the problem.
 
-##Mini Project1 (Updated)
+## Mini Project1 (Updated)
 [Mini Project1 : Updated](https://github.com/Jankipatel30/MiniProject1/blob/master/Additional_update.md)
 
-##Statistical calculator functions
+## Statistical calculator functions
 1. Population Mean
 2. Median
 3. Mode
